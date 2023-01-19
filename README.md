@@ -40,7 +40,10 @@ This is a web based application developed for Health issues clarification that i
 ![healthbot](https://user-images.githubusercontent.com/111400941/213453125-2cc2a414-1255-4306-97dc-5e2e73563bfa.PNG)
 
 -----
-![healthbot](https://user-images.githubusercontent.com/111400941/213460352-2acd0317-3f9e-41aa-863f-20b31c7be85f.PNG)
+
+
+![Capture111](https://user-images.githubusercontent.com/111400941/213460794-06777eca-7aa6-4900-b4b6-996f4d2ffb11.PNG)
+
 
 
 
