@@ -7,7 +7,7 @@ This is a web based application developed for Health issues clarification that i
 
 **Project Link** - https://lively-meadow-0e0299100.2.azurestaticapps.net
 
-**Demo video Link** - https://www.youtube.com/watch?v=fmutayDvc64
+**Demo video Link** - https://youtu.be/YblWyI1OmIE
 
 //Azure Technologies used for Project
 - Health bot
