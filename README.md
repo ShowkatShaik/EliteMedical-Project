@@ -1,4 +1,4 @@
-# EliteMedical-Project
+# MidPill-Project
 
 This is a web based application developed for Health issues clarification that include various types like Mental health,Injury,HIV/AIDS,Overweight,Obesity and Nutrition deficiency through out the world.
 
