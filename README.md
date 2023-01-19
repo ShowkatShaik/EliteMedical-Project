@@ -36,7 +36,8 @@ This is a web based application developed for Health issues clarification that i
 
 ##Health-Bot -
 
-![healthbot](https://user-images.githubusercontent.com/111400941/213452465-064abaf7-da97-411f-8f34-09acc7966f99.PNG)
+![healthbot](https://user-images.githubusercontent.com/111400941/213453125-2cc2a414-1255-4306-97dc-5e2e73563bfa.PNG)
+
 
 ##Contacts -
 
